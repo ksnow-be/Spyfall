@@ -1,4 +1,4 @@
-package ru.spy.spy;
+package ru.spy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
